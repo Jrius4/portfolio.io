@@ -7,13 +7,14 @@ export const personalData = {
   email: "juliusjuniorkazibwe@gmail.com",
   phone: "+256 779571619",
   address: "Muyenga, Kampala Uganda",
-  github: "https://github.com/said7388",
-  facebook: "https://www.facebook.com/abusaid.riyaz/",
-  linkedIn: "https://www.linkedin.com/in/abu-said-bd/",
-  twitter: "https://twitter.com/said7388",
-  stackOverflow: "https://stackoverflow.com/users/16840768/abu-said",
-  leetcode: "https://leetcode.com/said3812/",
-  devUsername: "Jrius",
+  github: "https://github.com/Jrius4",
+  facebook:
+    "https://www.facebook.com/profile.php?id=100006435786827&mibextid=ZbWKwL",
+  linkedIn: "https://www.linkedin.com/in/julius-junior-kazibwe-35920914a",
+  twitter: "https://twitter.com/JriusKazibwe",
+  stackOverflow: "",
+  leetcode: "",
+  devUsername: "jrius4",
   resume:
     "https://drive.google.com/file/d/1x8h7jgpSrAzK_1KZmcDvIqNJNYa04S0h/view?usp=drive_link",
 };
