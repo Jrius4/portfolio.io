@@ -8,5 +8,5 @@ export const contactsData = {
   linkedIn: "https://www.linkedin.com/in/julius-junior-kazibwe-35920914a",
   twitter: "https://twitter.com/JriusKazibwe",
   stackOverflow: "",
-  devUsername: "Jrius",
+  devUsername: "jrius4",
 };
