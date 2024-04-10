@@ -5,8 +5,8 @@ export const contactsData = {
   github: "https://github.com/Jrius4",
   facebook:
     "https://www.facebook.com/profile.php?id=100006435786827&mibextid=ZbWKwL",
-  linkedIn: "www.linkedin.com/in/julius-junior-kazibwe-35920914a",
+  linkedIn: "https://www.linkedin.com/in/julius-junior-kazibwe-35920914a",
   twitter: "https://twitter.com/JriusKazibwe",
-  stackOverflow: "https://stackoverflow.com/users/16840768/abu-said",
+  stackOverflow: "",
   devUsername: "Jrius",
 };
